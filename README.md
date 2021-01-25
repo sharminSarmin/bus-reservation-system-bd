@@ -19,9 +19,9 @@ Dept. of CSE
 
 ##Supervised
 
-Safiul Islam 
+Sharmin Sultana
 
-ID:17182103210
+ID:17182103221
 
 Intake: 38
 
@@ -68,9 +68,9 @@ is our own work and that it contains no material which has been accepted
 for the award to the candidate(s) of any other degree or diploma, except
 where due reference is made in the text of the project.
 
-Shafiul Islam
+Sharmin Sultana
 
-Id No.17182103210
+Id No.17182103221
 
 
 **Dedication**
